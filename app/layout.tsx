@@ -3,7 +3,7 @@ import { Providers } from "./providers";
 import React from "react";
 
 export const metadata = {
-  title: "Big Year",
+  title: "Big Ass Calendar",
   description: "Full-year calendar with Google all-day events",
   icons: {
     icon: "/favicon.png",
